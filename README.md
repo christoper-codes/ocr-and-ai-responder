@@ -32,7 +32,7 @@ This project is a Django REST API that processes images and PDFs to extract text
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ocr-ai-responder.git
+   git clone https://github.com/christoper-codes/ocr-and-ai-responder.git
    cd ocr-ai-responder
 
 ![Image](api/assets/docs/ocr-ia-responder-postman-img.png)
