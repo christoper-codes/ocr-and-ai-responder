@@ -9,11 +9,11 @@ This project is a Django REST API that processes images and PDFs to extract text
 
 ## Libraries Used in the Project
 
-### 1. OpenCV (cv2) *(Install with `pip install opencv-python`)*
+### 1. OpenCV (cv2)
 - **`import cv2`**:
   - **Function**: Computer vision library used for image processing, such as converting to grayscale and applying thresholds.
 
-### 2. Tesseract OCR *(Install with `pip install pytesseract` and configure Tesseract on your system)*
+### 2. Tesseract OCR
 - **`import pytesseract`**:
   - **Function**: Library that provides an interface to Tesseract OCR, a tool for extracting text from images.
 
@@ -24,7 +24,7 @@ This project is a Django REST API that processes images and PDFs to extract text
 - **`from io import BytesIO`**:
   - **Function**: Provides a way to handle binary data in memory, useful for working with files in binary format.
 
-### 4. NumPy *(Install with `pip install numpy`)*
+### 4. NumPy
 - **`import numpy as np`**:
   - **Function**: Fundamental library for scientific computing in Python, used here to convert images to NumPy arrays for processing with OpenCV.
 
