@@ -1,0 +1,5 @@
+# Ignore .env file containing credentials, keys, passwords and tokens
+.env
+
+# Ignore documentation site
+DOCS.md
